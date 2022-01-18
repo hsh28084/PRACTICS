@@ -1,0 +1,4 @@
+/* HTML TAG HEIGHT INITIAL */
+html, body, #root, #root > div{
+  height: 100%;
+}
